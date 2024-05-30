@@ -10,9 +10,9 @@ console.log(`first_number1 = ${firstValue}`);
 console.log(`second_number1 = ${secondValue}`);
 
 // Second Swap
-let keira = first_number + second_number
-second_number = keira - second_number
-first_number = keira - first_number
+let total = first_number + second_number
+second_number = total - second_number
+first_number = total - first_number
 console.log(`first_number2 = ${first_number}`);
 console.log(`second_number2 = ${second_number}`);
 
